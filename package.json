@@ -1,0 +1,36 @@
+{
+  "name": "zby-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "zby-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/1037475507@qq.com/zby-pages#readme",
+  "bugs": {
+    "url": "https://github.com/1037475507@qq.com/zby-pages/issues"
+  },
+  "license": "MIT",
+  "author": "LAPTOP-BL72C87P\admin <1037475507@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1037475507@qq.com/zby-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
